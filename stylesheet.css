@@ -5,3 +5,12 @@ body {
 h1, p {
     color: #d3d3d3;
 }
+
+a {
+    color: #d3d3d3;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
